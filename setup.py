@@ -26,7 +26,7 @@ setup(
     ],
     entry_points={
         'pytest11': [
-            'change-report = pytest_ch_re',
+            'change-report = pytest-ch-re',
         ]
     }
 )
