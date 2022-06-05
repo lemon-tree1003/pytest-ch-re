@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: pytest-ch-re
+Version: 1.0
+Summary: turn . into √，turn F into x
+Author: mlm
+Author-email: MLuMei@163.com
+License: proprietary
+Keywords: pytest,py.test,pytest-change-report
+Classifier: Framework :: Pytest
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Testing
+Classifier: Programming Language :: Python :: 3.6
+
+print result on terminal turn . into √，turn F into x using hook
